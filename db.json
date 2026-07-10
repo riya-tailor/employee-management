@@ -1,3 +1,11 @@
 {
-    "employees": []
-  }
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "password": 123456,
+      "name": "Admin"
+    }
+  ],
+  "employees": []
+}
