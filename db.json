@@ -7,5 +7,28 @@
       "name": "Admin"
     }
   ],
-  "employees": []
+
+  "employees": [
+    {
+      "id": 1,
+      "name": "John",
+      "department": "IT",
+      "designation": "Frontend Developer",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Rahul",
+      "department": "HR",
+      "designation": "HR Executive",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Amit",
+      "department": "Sales",
+      "designation": "Manager",
+      "status": "Inactive"
+    }
+  ]
 }
